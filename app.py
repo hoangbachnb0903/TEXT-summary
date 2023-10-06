@@ -1,1 +1,1 @@
-print("Hello World")
+print("Tôi đi học nhưng hơi chán ")
