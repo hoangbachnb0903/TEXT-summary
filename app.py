@@ -1,1 +1,1 @@
-print("Tôi đi học nhưng hơi chán ")
+print (" anh bắc gà ác ")
