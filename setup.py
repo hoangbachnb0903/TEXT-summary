@@ -12,7 +12,6 @@ SRC_REPO = "textSummarizer"
 AUTHOR_EMAIL = "hoangbac.hnb.g@gmail.com>"
 
 
-
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,
